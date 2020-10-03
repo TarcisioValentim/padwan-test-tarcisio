@@ -19,5 +19,4 @@ public class VaderService {
         skills.add("telepathy");
         return skills;
     }
-
 }
